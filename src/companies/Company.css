@@ -1,0 +1,21 @@
+#list {
+    border: 0;
+    color: black;
+    margin: 20px;
+    padding: 10px;
+}
+
+
+#detail {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#card {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 4px;
+    padding: 10px;
+}

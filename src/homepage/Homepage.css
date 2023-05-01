@@ -1,0 +1,52 @@
+#container {
+    border: 0;
+    color: black;
+    cursor: pointer;
+    font-size: 18px;
+    height: 50px;
+    margin-top: 10x;
+    margin-bottom: 10x;
+    outline: 0;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+}
+
+#title {
+    cursor: pointer;
+    font-size: 20px;
+    height: 60px;
+    margin-top: 15x;
+    margin-bottom: 10x;
+    outline: 0;
+    text-align: center;
+    padding: 5px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+#msg{
+    color: black;
+    cursor: pointer;
+    font-size: 16px;
+    height: 30px;
+    margin-top: 20x;
+    outline: 0;
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+a {
+    color: lightseagreen;
+    cursor: pointer;
+    font-size: 14px;
+    height: 22px;
+    margin-top: 20x;
+    outline: 0;
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}

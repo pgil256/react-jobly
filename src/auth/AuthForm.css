@@ -1,0 +1,50 @@
+h2  {
+    color: black;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: 20px;
+  }
+
+.username {
+    color: black;
+    font-size: 18px;
+}
+  
+  form{
+    height: 50px;
+    height: 100%;
+    padding: 20px;
+    width: 300px;
+    border-radius: 12px;
+    box-sizing: border-box;
+    font-size: 18px;
+    outline: 0;
+    padding: 4px;
+  }
+  
+label {
+    color: black;
+    font-size:18px;
+  }
+  
+    
+button{
+    border-radius: 8px;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 20px;
+    height: 30px;
+    margin-top: 20px;
+    text-align: center;
+    width: 80px;
+  }
+
+  input{
+      display: block;
+      font-size:20px;
+      padding:4px 2px;
+      border:solid 1px #aacfe4;
+      width:1000px;
+      margin:2px 0 20px 10px;
+  }

@@ -1,0 +1,17 @@
+#card {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 2;
+    padding: 5x;
+}
+
+#btn {
+    display: inline;
+    width: 20%;
+    height: 25%;
+    float: right;
+}
+
+#btn:disabled {
+    color: black;
+}
